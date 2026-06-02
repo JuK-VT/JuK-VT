@@ -18,14 +18,14 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39C5BB&center=true&vCenter=true&width=680&lines=Synthesizing+complex+systems+into+elegant+solutions.;Code+is+my+voice%3B+architecture+is+my+song.+🎤;Building+the+future+of+fintech%2C+one+deploy+at+a+time.+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39C5BB&center=true&vCenter=true&width=680&lines=Synthesizing+complex+systems+into+elegant+solutions.;Code+is+my+voice%3B+architecture+is+my+song.+%F0%9F%8E%A4;Building+the+future+of+fintech%2C+one+deploy+at+a+time.+%E2%9A%A1"/>
 
 <br/>
 
 <!-- stat pills -->
 <img src="https://img.shields.io/badge/🌐_International-Fintech-39C5BB?style=flat-square&labelColor=0d2f2f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/⭐_Globally-Recognized-39C5BB?style=flat-square&labelColor=0d2f2f"/>
+<img src="https://img.shields.io/badge/⭐_Python-Master-39C5BB?style=flat-square&labelColor=0d2f2f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/⏳_5_Years-Experience-39C5BB?style=flat-square&labelColor=0d2f2f"/>
 
@@ -204,6 +204,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2500&color=39C5BB&center=true&vCenter=true&width=440&lines=%5B+turquoise+%5D+%5B+code+%5D+%5B+fintech+%5D;Vocaloid+Systems+Online.+All+nodes+active.;初音ミク+·+CV01+·+Synthesizer+v5.0"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=2500&color=39C5BB&center=true&vCenter=true&width=440&lines=%5B+turquoise+%5D+%5B+code+%5D+%5B+fintech+%5D;Vocaloid+Systems+Online.+All+nodes+active.;%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+%C2%B7+CV01+%C2%B7+Synthesizer+v5.0"/>
 
 </div>
