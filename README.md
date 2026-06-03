@@ -2,7 +2,7 @@
 
 <!-- ░░░ HERO HEADER ░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d2f2f,100:39C5BB&height=220&section=header&text=JuK-VT&fontSize=52&fontColor=39C5BB&fontAlignY=36&desc=初音ミク%20 | %20Software%20Engineer%20II%20 | %20Python%20Specialist&descAlignY=58&descSize=15&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d2f2f,100:39C5BB&height=220&section=header&text=JuK-VT&fontSize=52&fontColor=39C5BB&fontAlignY=36&desc=%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%20%7C%20Software%20Engineer%20II%20%7C%20Python%20Specialist&descAlignY=58&descSize=15&animation=twinkling"/>
 
 <br/>
 
