@@ -329,7 +329,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=JuK-VT&theme=dark&background=0a0a0a&ring=39C5BB&fire=00b4d8&currStreakLabel=39C5BB&sideLabels=39C5BB&border=39C5BB&stroke=39C5BB" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JuK-VT&theme=dark&background=0a0a0a&ring=39C5BB&fire=00b4d8&currStreakLabel=39C5BB&sideLabels=39C5BB&border=39C5BB&stroke=39C5BB&hide_border=false" width="500"/>
 
 <br/><br/>
 
